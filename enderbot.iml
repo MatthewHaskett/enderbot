@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <module version="4">
   <component name="ExternalSystem" externalSystem="Maven" />
 </module>
+=======
+<module type="JAVA_MODULE" version="4" />
+>>>>>>> parent of 30c9d86... Revert "Initial commit"
